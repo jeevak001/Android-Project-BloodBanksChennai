@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blood Banks Chennai</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_areas">AreasActivity</string>
+    <string name="title_activity_help">Help</string>
+
+</resources>

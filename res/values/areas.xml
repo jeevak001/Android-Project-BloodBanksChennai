@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="areas">
+        <item name="Adyar">Adyar</item>
+        <item name="Ambathur">Ambathur</item>
+        <item name="Amjikarai">Amjikarai</item>
+        <item name="Anna Nagar">Anna Nagar</item>
+        <item name="Arumbakkam">Arumbakkam</item>
+        <item name="Ashok Nagar">Ashok Nagar</item>
+        <item name="Avadi">Avadi</item>
+        <item name="Ayanavaram">Ayanavaram</item>
+        <item name="Besanth Nagar">Besanth Nagar</item>
+        <item name="Broadway">Broadway</item>
+        <item name="Chetpet">Chetpet</item>
+        <item name="Choolaimedu">Choolaimedu</item>
+        <item name="Chrompet">Chrompet</item>
+        <item name="Egmore">Egmore</item>
+        <item name="Ekkaduthangal">Ekkaduthangal</item>
+        <item name="Ennore">Ennore</item>
+        <item name="Gopalapuram">Gopalapuram</item>
+        <item name="Gowrivakkam">Gowrivakkam</item>
+        <item name="Greems Road">Greems Road</item>
+        <item name="Guindy">Guindy</item>
+        <item name="ICF Colony">ICF Colony</item>
+        <item name="Jafferkhanpet">Jafferkhanpet</item>
+        <item name="K.K.Nagar">K.K.Nagar</item>
+        <item name="Kamaraj Nagar">Kamaraj Nagar</item>
+        <item name="Kilpauk">Kilpauk</item>
+        <item name="Kodambakkam">Kodambakkam</item>
+        <item name="Kolathur">Kolathur</item>
+        <item name="Koyambedu">Koyambedu</item>
+        <item name="Madhavaram">Madhavaram</item>
+        <item name="Madipakkam">Madipakkam</item>
+        <item name="Maduravoil">Maduravoil</item>
+        <item name="Manali">Manali</item>
+        <item name="Mangadu">Mangadu</item>
+        <item name="Meenambakkam">Meenambakkam</item>
+        <item name="Mylapore">Mylapore</item>
+        <item name="Nandanam">Nandanam</item>
+        <item name="Nanganallur">Nanganallur</item>
+        <item name="Nungambakkam">Nungambakkam</item>
+        <item name="Palavaram">Palavaram</item>
+        <item name="Park Town">Park Town</item>
+        <item name="Parrys">Parrys</item>
+        <item name="Perambur">Perambur</item>
+        <item name="Poonamallee">Poonamallee</item>
+        <item name="Porur">Porur</item>
+        <item name="Redhills">Redhills</item>
+        <item name="Royapettah">Royapettah</item>
+        <item name="Royapuram">Royapuram</item>
+        <item name="Saidapet">Saidapet</item>
+        <item name="Saligramam">Saligramam</item>
+        <item name="Shenoy Nagar">Shenoy Nagar</item>
+        <item name="Sowcarpet">Sowcarpet</item>
+        <item name="St.Thomos Mount">St.Thomos Mount</item>
+        <item name="T.Nagar">T.Nagar</item>
+        <item name="Tambaram">Tambaram</item>
+        <item name="Teynampet">Teynampet</item>
+        <item name="Tharamani">Tharamani</item>
+        <item name="Thiruninravur">Thiruninravur</item>
+        <item name="Tiruvanmiyur">Tiruvanmiyur</item>
+        <item name="Tiruverkadu">Tirverkadu</item>
+        <item name="Tiruvottiyur">Tiruvottiyur</item>
+        <item name="Tondiarpet">Tondiarpet</item>
+        <item name="Triplicane">Triplicane</item>
+        <item name="Vadapalani">Vadapalani</item>
+        <item name="Vandalur">Vandalur</item>
+        <item name="Velachari">Velachari</item>
+        <item name="Villivakkam">Villivakkam</item>
+        <item name="Virugambakkam">Virugambakkam</item>
+        <item name="Vyasarpadi">Vyasarpadi</item>
+        <item name="Washermanpet">Washermanpet</item>
+        <item name="West Mambalam">West Mambalam</item>
+    </string-array>
+
+</resources>
